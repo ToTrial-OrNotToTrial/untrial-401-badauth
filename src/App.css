@@ -4,14 +4,14 @@
   background: linear-gradient(0deg, rgb(225, 89, 89), rgb(169, 55, 55), black, black, rgb(42, 42, 209), rgb(105, 105, 218));
   background-size: 100%;
   z-index: 1;
-}
-
-.App {
   display: flex;
   flex-direction: column;
   justify-content: center;
   align-items: center;
 }
+
+/* .App {
+} */
 
 .errorMessages {
   display: flex;
